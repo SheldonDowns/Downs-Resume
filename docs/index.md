@@ -3,8 +3,7 @@ layout: cv
 title: Sheldon Downs's Resume
 ---
 # Sheldon Downs
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
-
+Future Data Science Major.
 <div id="webaddress">
 <a href="Sheldondowns2002@gmail.com">SheldonDowns2002@gmail.com</a>
 | <a href="https://github.com/SheldonDowns">Data Science Program</a>
