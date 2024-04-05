@@ -6,9 +6,8 @@ title: Sheldon Downs's Resume
 Future Data Science Major.
 <div id="webaddress">
 <a href="Sheldondowns2002@gmail.com">SheldonDowns2002@gmail.com</a>
-| <a href="https://github.com/SheldonDowns">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/sheldon-downs-b239521ba/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://github.com/SheldonDowns">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
