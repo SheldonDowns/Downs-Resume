@@ -7,7 +7,7 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
 <a href="Sheldondowns2002@gmail.com">SheldonDowns2002@gmail.com</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+| <a href="https://github.com/SheldonDowns">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/sheldon-downs-b239521ba/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
@@ -20,6 +20,9 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Data Science Major GPA
+
+## Languages Learned
+Python | R | SQL 
 
 ## Service and Work History
 
